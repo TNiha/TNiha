@@ -1,3 +1,69 @@
+<!UIUXDOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Yasin | UI/UX </title>
+</head>
+<body>
+  <!-- Heading Elements -->
+  <h1>This is an H1 Heading</h1>
+  <h2>This is an H2 Heading</h2>
+  <h3>This is an H3 Heading</h3>
+  <h4>This is an H4 Heading</h4>
+  <h5>This is an H5 Heading</h5>
+  <h6>This is an H6 Heading</h6>
+  <p>This is a Paragraph</p>
+
+  <!-- Paragraph Element -->
+  <p>This is a paragraph element. It is used to write normal text content on a web page.</p>
+  <!--Alt+Z-->
+  <p>uiux, dolor sit amet consectetur adipisicing elit. 
+Adipisci sunt possimus ducimus architecto iusto numquam dolore,
+hic sed cumque mollitia animi quia maxime rerum eligendi, atque voluptatibus repellendus recusandae cupiditate saepe assumenda et dolorum. 
+Magnam labore totam atque voluptatibus itaque magni nulla nihil laboriosam repudiandae ratione voluptas aliquid ad, 
+iusto deleniti fugiat fuga perferendis fugit debitis ut quisquam dolor id at. Facilis repellat vero labore porro nisi, 
+ad voluptatibus numquam, temporibus ratione dolore a architecto vitae quod iste aspernatur quidem ab aperiam nobis nulla ut dolorem. 
+Blanditiis facilis qui nostrum asperiores animi necessitatibus porro consectetur cupiditate, dolore adipisci fugit delectus.</p>
+
+  <!-- Anchor (Link) Element -->
+  <p>Portfolio Link: <a href="https://github.com/MiraTajuiux&quot; target="_blank">Github</a></p>
+  <p>Visit <a href="https://www.example.com&quot; >Example Website</a></p>
+
+  <!-- Image Element -->
+  <p>Here is an image element:</p>
+  <img src="https://via.placeholder.com/150&quot; alt="Placeholder image">
+
+  <!-- Unordered List Element -->
+  <h3>Shopping List</h3>
+  <ul>
+    <li>Milk</li>
+    <li>Bread</li>
+    <li>Eggs</li>
+  </ul>
+    <h4>Programming Language</h4>
+  <ul>
+    <li>C</li>
+    <li>C++</li>
+    <li>Java</li>
+  </ul>
+  <!-- Ordered List Element -->
+  <h3>Steps to Learn HTML</h3>
+  <ol>
+    <li>Learn basic elements</li>
+    <li>Practice writing code</li>
+    <li>Build simple projects</li>
+  </ol>
+      <h4>Programming Language</h4>
+  <ol>
+    <li>C</li>
+    <li>C++</li>
+    <li>Java</li>
+  </ol>
+
+</body>
+</html>
+
 - 👋 Hi, I’m @ MIRA
 - 👀 I’m interested in create animation
 - 🌱 I’m currently learning 
